@@ -41,7 +41,7 @@ To become MEG compliant, the easiest way is to use our official **MEG Quickstart
 ### The Protocol Specifications
 
 This repository is the single source of truth for the MEG protocol. All specifications are located in the `/specs` directory.
-*   [**MEG Core Protocol v4.6 (Official PDF)**](./specs/MEG_Core_Protocol_v4.6.pdf)
+*   [**MEG Core Protocol v4.6 (Official PDF)**](./specs/MEG_v4.6.2-en.pdf)
 *   [**Gold Level Specifications**](./specs/gold/)
 *   [**Silver Level Specifications**](./specs/silver/)
 *   [**Bronze Level Specifications**](./specs/bronze/)
