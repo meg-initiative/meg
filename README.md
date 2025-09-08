@@ -49,7 +49,7 @@ This repository is the single source of truth for the MEG protocol. All specific
 ### Roadmap & Contributing
 
 MEG is a living standard. Our vision for future versions is detailed in our public roadmap.
-*   [**Read the Full Project Roadmap**](./ROADMAP.md)
+*   [**Read the Full Project Roadmap**](./specs/MEG_v4.6.2-en-Roadmap.pdf)
 
 We welcome contributions to the protocol itself. If you'd like to report an issue with the documentation or suggest an improvement to the standard, please read our contributing guide.
 *   [**How to Contribute**](./CONTRIBUTING.md)
