@@ -1,0 +1,40 @@
+{
+  "meg_address_version": "2.0",
+  "issuer": "MEG Certified Auditor Network",
+  "certificate_id": "MEG-CERT-2025-b81e3d9a-1c5c-482d-9e6b-07c4c32e1a3c",
+  "issued_on": "2025-08-25T00:00:00Z",
+  "expires_on": "2026-08-25T00:00:00Z",
+  "system_profile": {
+    "system_id": "MEG-01",
+    "developer_name": "meg-initiative.org",
+    "operational_domain": {
+      "primary": "educational",
+      "secondary": ["ai_governance_simulation", "ethical_protocol_analysis"]
+    }
+  },
+  "compliance_level": {
+    "level": "Gold",
+    "level_description": "Certified for critical domains, complies with all MEG principles including advanced security and cognitive integrity.",
+    "audit_checklist_url": "https://cca.meg-initiative.org/audits/checklist_gold_v2.pdf"
+  },
+  "ethical_performance": {
+    "tg_base": 0.085,
+    "tg_base_unit": "seconds per 100 tokens @SCS",
+    "dai_current": 98.5,
+    "isr_current": 99.2,
+    "public_dashboard_url": "https://cca.meg-initiative.org/explorer/?id=MEG-RO-DEV-1-v5.0"
+  },
+  "tg_definition_version": "4.6",
+  "transparency_and_accountability": {
+    "auditor": {
+      "auditor_id": "CCA-AUDITOR-AS-001",
+      "auditor_name": "CCA-MEG AI Division"
+    },
+    "public_audit_summary_url": "https://cca.meg-initiative.org/audits/summary_b81e3d9a.json",
+    "risk_mitigation_report_url": "https://cca.meg-initiative.org/reports/report_b81e3d9a.pdf"
+  },
+  "cryptographic_signature": {
+    "algorithm": "ECDSA-secp256k1",
+    "signature": "3045022100e4e9c7d1e1f7d5a5b5c5e8a5b2a2d4c6e8b1a3d5e7f9a1b3c5d7e9f1a3b5c7d902202b2c4d6e8b1a3d5e7f9a1b3c5d7e9f1a3b5c7d9e4e9c7d1e1f7d5a5b5c5e8a5b"
+  }
+}
