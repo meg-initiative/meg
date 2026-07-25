@@ -11,10 +11,10 @@ MEG is an open, engine-agnostic technical and legal governance framework for AI 
 
 The current framework consists of two complementary layers:
 
-- **MEG1 v5.0 — Technical Standard**  
+- **MEG1 (MEG v5.0) - Technical Standard**  
   Defines the technical evidence, audit, behavioral assurance, identity, delegation and control mechanisms.
 
-- **MEG2 — Legal Governance Framework**  
+- **MEG2 - Legal Governance Framework**  
   Assigns legal and accountability significance to the evidence produced by MEG1, including persistent agent identity, delegation chains, guarantees, jurisdiction and graduated liability.
 
 MEG is designed as a voluntary implementation-layer standard. It does not replace existing regulation, product liability, sectoral rules or contractual obligations.
