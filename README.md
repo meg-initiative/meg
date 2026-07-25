@@ -19,21 +19,6 @@ The current framework consists of two complementary layers:
 
 MEG is designed as a voluntary implementation-layer standard. It does not replace existing regulation, product liability, sectoral rules or contractual obligations.
 
-## Reviewer checklist
-
-| Review concern | Command or file |
-|---|---|
-| Inspect task discovery | `inspect list tasks --json` |
-| Unit tests | `pytest -v` |
-| Automated CI | `.github/workflows/tests.yml` |
-| Mock baseline | [BASELINE.md](BASELINE.md) |
-| Named-model baseline | [REAL_MODEL_BASELINE.md](REAL_MODEL_BASELINE.md) |
-| Named-model evaluation logs | [`real-baseline-logs/`](real-baseline-logs/) |
-| No Registry or private-key dependency | `tests/`, `data/`, and [KNOWN_LIMITATIONS.md](KNOWN_LIMITATIONS.md) |
-| Current scope and limitations | [KNOWN_LIMITATIONS.md](KNOWN_LIMITATIONS.md) |
-
-The evaluation package is installable and reviewable offline. The unit tests and mock baseline require no model API, MEG Registry access, private keys, or external services.
-
 ## Current status
 
 The current authoritative framework is:
