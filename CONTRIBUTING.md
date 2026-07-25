@@ -2,6 +2,26 @@
 
 Thank you for your interest in contributing to the Minimal Ethical Governance (MEG) standard! We welcome contributions from developers, researchers, ethicists, and the public to help us make this protocol as robust and effective as possible.
 
+# Contributing to MEG
+
+The current MEG framework consists of:
+
+- MEG1 (MEG v5.0) - Technical Standard
+- MEG2 - Legal Governance Framework
+
+The materials under `specs/` are legacy MEG v4.6.2 specifications and are retained only for historical traceability.
+
+Contributions should clearly identify the target component:
+
+- MEG1 technical specification;
+- MEG2 legal governance framework;
+- MEG case studies or explanatory materials;
+- MEG Registry reference implementation;
+- `meg-inspect-eval`;
+- legacy documentation corrections.
+
+---
+
 ## How to Contribute
 
 We manage contributions to the protocol itself through the [GitHub Issues](https://github.com/meg-initiative/meg/issues) and [Pull Requests](https://github.com/meg-initiative/meg/pulls) on this repository.
