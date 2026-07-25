@@ -182,6 +182,3 @@ MEG is an open technical and legal governance framework.
 
 Use of MEG does not by itself constitute certification, regulatory conformity, legal compliance, insurance coverage or proof that an AI system is safe.
 
----
-
-This project is licensed under the **CC BY 4.0 "Minimal Ethical Governance (MEG)"** license.
